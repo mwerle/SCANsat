@@ -1,0 +1,13 @@
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros">
+    <!--
+    <KSP_DIR>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Kerbal Space Program\</KSP_DIR>
+    -->
+    <KSP_DIR>S:\Personal\KSP\KSP_Dev\</KSP_DIR>
+    <PDB2MDB_TOOL>$(SolutionDir)..\..\pdb2mdb.exe</PDB2MDB_TOOL>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemDefinitionGroup />
+  <ItemGroup />
+</Project>
