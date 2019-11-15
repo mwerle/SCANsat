@@ -24,7 +24,7 @@
     <DefineConstants>DEBUG;ENABLE_PROFILER</DefineConstants>
     <DebugSymbols>true</DebugSymbols>
     <NoStdLib>true</NoStdLib>
-    <DebugType>full</DebugType>
+    <DebugType>portable</DebugType>
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
